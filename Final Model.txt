@@ -1,0 +1,5 @@
+Final Model: Logistic Regression + SMOTE
+Best Metric: Macro F1 = 0.5827
+Strength: Best performance on minority class (negative sentiment)
+Features: TF-IDF (1-2 grams), word_count, char_count
+Purpose: Improve customer experience by early detection of dissatisfaction
