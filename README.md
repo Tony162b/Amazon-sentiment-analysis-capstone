@@ -1,4 +1,3 @@
-# Amazon-sentiment-analysis-capstone
 # 📘 Sentiment Analysis for Amazon Reviews (NLP Capstone)
 **Author:** Michael Koffie  
 
